@@ -1,0 +1,25 @@
+
+   /* Keeps image fixed on scroll */
+
+#firstdiv{
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    align-items: center; /* Center vertically */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../../../../../../../../Angular/BUSSPASS/src/assets/seat.jpg);
+    background-size: cover;         /* Cover entire screen */
+    background-repeat: no-repeat;   /* Prevent repetition */
+    background-position: center;    /* Center image */
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+#form{
+  
+ /* optional: glass blur effect */
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+   background-color: transparent !important;
+
+}
