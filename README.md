@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Bus Pass Management System
 
 A Django-based application for managing college bus passes with student and admin panels.
@@ -195,3 +196,6 @@ For local development, follow the original setup instructions below:
 - Mobile app integration
 - Payment gateway integration
 - Route optimization algorithms
+=======
+# BUSSPASSES-SYSTEM
+>>>>>>> e342d50212b37d43b21f905ab165be7fc70b330d
